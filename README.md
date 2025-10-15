@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🎓 I’m currently pursuing my **B.Sc. in Computer Science and Engineering** from **East West University**, Dhaka, Bangladesh. <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="20" /> 
-- 🌱 Exploring the fields of **Data Science**, and **Software Engineering**.  
+-  Exploring the fields of **Data Science**, and **Software Engineering**.  
 
 ---
 
